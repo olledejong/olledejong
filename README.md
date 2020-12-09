@@ -1,1 +1,1 @@
-![](https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO)
+![](https://media.giphy.com/media/o0vwzuFwCGAFO/source.gif)
