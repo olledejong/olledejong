@@ -1,5 +1,5 @@
-<p align="left" style="width: 450px">
-My name is Olle de Jong and I'm a fourth year student Bio-Informatics (BSc) at the Hanze University of Applied Sciences.  
+<p align="left" style="width: 450px;">
+My name is Olle de Jong and I'm a fourth year student Bio-Informatics.
 All my (open-source) career projects can be found right here.
 </p>
 <p align="right">
