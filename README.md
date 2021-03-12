@@ -1,5 +1,5 @@
 <p align="left" style="width: 450px;">
-Hi, my name is Olle de Jong and I'm a fourth year student Bio-Informatics.<br>
+Hi, my name is Olle de Jong and I'm a bioinformatician<br>
 All my (open-source) career projects can be found right here.
 </p>
 <p align="right">
