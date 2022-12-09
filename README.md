@@ -1,8 +1,1 @@
-<p align="left" style="width: 450px;">
-Hi, my name is Olle de Jong and I'm a bioinformatics graduate who is<br>
-currently studying Biology. Besides that, I am very interested in software<br>
-development. All my (open-source) career projects can be found right here.
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/kkYbDLFmNvO4E/source.gif">
-</p>
+![Olle's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olledejong&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=6&theme=dark)
